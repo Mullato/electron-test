@@ -1,0 +1,23 @@
+{
+  "name": "electron",
+  "version": "0.1.0",
+  "description": "test electron feature",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mullato/electron-test.git"
+  },
+  "author": "Ben Staples",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mullato/electron-test/issues"
+  },
+  "homepage": "https://github.com/Mullato/electron-test#readme",
+  "dependencies": {
+    "electron-version": "^2.0.1"
+  }
+}
